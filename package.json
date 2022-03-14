@@ -2,7 +2,7 @@
   "name": "parisa-react-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://parisa-ostovari.github.io/parisa-react-portfolio/",
+  "homepage": "https://parisa-ostovari.github.io/Parisa-React-Portfolio/",
   "dependencies": {
     "@heroicons/react": "^1.0.6",
     "@testing-library/jest-dom": "^5.16.2",

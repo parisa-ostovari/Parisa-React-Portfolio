@@ -4,7 +4,7 @@
 
 This is my portfolio website, used to showcase the applications I have created and demonstrate my software development skills. Primarily using React.js and Tailwind CSS, I hope this acts as a way to be able to connect with other developers and those within the industry. Hope you enjoy!
 
-<a href="https://parisa-ostovari.github.io/parisa-react-portfolio/">Deployed Live Website</a>
+<a href="https://parisa-ostovari.github.io/Parisa-React-Portfolio/">Deployed Live Website</a>
 
 ## Table of Contents
   - [Dependencies](#dependencies)
