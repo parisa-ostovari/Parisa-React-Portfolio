@@ -1,10 +1,62 @@
 # Parisa-React-Portfolio
 
+![License Badge](https://img.shields.io/badge/License-MIT-informational?logoColor=white&color=1CA2F1)
+
+This is my portfolio website, used to showcase the applications I have created and demonstrate my software development skills. Primarily using React.js and Tailwind CSS, I hope this acts as a way to be able to connect with other developers and those within the industry. Hope you enjoy!
+
+<a href="https://parisa-ostovari.github.io/Parisa-React-Portfolio/">Deployed Live Website</a>
+
+## Table of Contents
+  - [Dependencies](#dependencies)
+  - [Questions](#questions)
+  - [License](#license)
+  - [Usage](#usage)
+
+## Dependencies
+- [react](https://www.npmjs.com/package/react)
+- [tailwind css](https://tailwindcss.com/docs/installation) 
+
+## Questions
+If you have any questions or would like to view my other projects, please use the contact information below:
+
+<a href="https://github.com/parisa-ostovari">GitHub</a>
+
+<a href="mailto:parisaostovari@gmail.com">Email</a> 
+
+<a href="https://www.linkedin.com/in/parisa-ostovari/">Linkedin</a>
+
+## License
+This project is covered under the following license:
+
+MIT License
+
+Copyright (c) [2022]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+https://parisa-ostovari.github.io/Parisa-React-Portfolio/
+
 
 
 ---
 
-
+## Usage
 
 ## Getting Started with Create React App
 
