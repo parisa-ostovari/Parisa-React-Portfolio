@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/parisa-react-portfolio/static/css/main.3fb0a0a0.css",
-    "main.js": "/parisa-react-portfolio/static/js/main.587ad2ba.js",
-    "static/media/git-cooking-screenshot.png": "/parisa-react-portfolio/static/media/git-cooking-screenshot.b40b4300eed7d8fb600b.png",
-    "static/media/headshot.JPG": "/parisa-react-portfolio/static/media/headshot.b59b989255662a785b51.JPG",
-    "static/media/rate-my-portfolio-screnshot.png": "/parisa-react-portfolio/static/media/rate-my-portfolio-screnshot.95ebaf95b57ecee3c603.png",
-    "static/media/covid-travel-guide-screenshot.png": "/parisa-react-portfolio/static/media/covid-travel-guide-screenshot.b29ecbb7909ac8b04f5a.png",
-    "static/media/ParisaOstovariResume.pdf": "/parisa-react-portfolio/static/media/ParisaOstovariResume.1465700e81e18ebad16f.pdf",
-    "index.html": "/parisa-react-portfolio/index.html",
-    "main.3fb0a0a0.css.map": "/parisa-react-portfolio/static/css/main.3fb0a0a0.css.map",
-    "main.587ad2ba.js.map": "/parisa-react-portfolio/static/js/main.587ad2ba.js.map"
+    "main.css": "/Parisa-React-Portfolio/static/css/main.3fb0a0a0.css",
+    "main.js": "/Parisa-React-Portfolio/static/js/main.57cd8695.js",
+    "static/media/git-cooking-screenshot.png": "/Parisa-React-Portfolio/static/media/git-cooking-screenshot.b40b4300eed7d8fb600b.png",
+    "static/media/headshot.JPG": "/Parisa-React-Portfolio/static/media/headshot.b59b989255662a785b51.JPG",
+    "static/media/rate-my-portfolio-screnshot.png": "/Parisa-React-Portfolio/static/media/rate-my-portfolio-screnshot.95ebaf95b57ecee3c603.png",
+    "static/media/covid-travel-guide-screenshot.png": "/Parisa-React-Portfolio/static/media/covid-travel-guide-screenshot.b29ecbb7909ac8b04f5a.png",
+    "static/media/ParisaOstovariResume.pdf": "/Parisa-React-Portfolio/static/media/ParisaOstovariResume.1465700e81e18ebad16f.pdf",
+    "index.html": "/Parisa-React-Portfolio/index.html",
+    "main.3fb0a0a0.css.map": "/Parisa-React-Portfolio/static/css/main.3fb0a0a0.css.map",
+    "main.57cd8695.js.map": "/Parisa-React-Portfolio/static/js/main.57cd8695.js.map"
   },
   "entrypoints": [
     "static/css/main.3fb0a0a0.css",
-    "static/js/main.587ad2ba.js"
+    "static/js/main.57cd8695.js"
   ]
 }
