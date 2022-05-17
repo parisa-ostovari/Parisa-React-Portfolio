@@ -4,7 +4,7 @@ import { Link } from 'react-scroll';
 function Home() {
     return (
         <div id="home"
-        className="bg-zinc-200 w-screen">
+        className="bg-zinc-100 w-screen">
         <div className="flex w-screen md:w-screen h-screen">
           <div className="m-auto text-center text-orange-700 pt-10 select-none">
           <h1 className="text-5xl md:text-7xl mb-2 transition transform hover:scale-110 duration-500"> Parisa Ostovari </h1>

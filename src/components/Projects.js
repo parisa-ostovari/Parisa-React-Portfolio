@@ -7,7 +7,7 @@ import Rate from './asset/rate-my-portfolio-screnshot.png'
 export default function Work() {
   return (
 
-    <div id="work" className="bg-zinc-200 w-screen m-auto md:m-auto h-fit md:h-fit sm:pt-20 md:pt-20 p-10 pt-14 md:w-screen">
+    <div id="work" className="bg-zinc-100 w-screen m-auto md:m-auto h-fit md:h-fit sm:pt-20 md:pt-20 p-10 pt-14 md:w-screen">
       <div className="sm:pt-0 md:pt-0 sm:mt-0 flex m-auto md:max-w-screen-2xl pb-5">
         <div className="flex w-screen md:w-screen">
           <div className="m-auto text-center text-slate-800">
