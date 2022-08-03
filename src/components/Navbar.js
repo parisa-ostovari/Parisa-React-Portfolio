@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-scroll';
-import Pdf from './asset/Resume - Parisa Ostovari .pdf'
+import Pdf from './asset/Parisa Ostovari - Resume.pdf'
 
 function Navbar() {
     return (
